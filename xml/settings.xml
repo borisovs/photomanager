@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+        <path name="C:\Out"   />
+  	<cf name="C:\Photos1"  />
+        <dvd name="C:\Photos"        />
+        <flash name="C:\Photos"        />
+        <mm name="C:\Photos"        />
+        <ms name="C:\Photos"        />
+        <sd name="C:\Photos"        />
+	<doc name="C:\Passport"  />
+        <prefix name="office" />
+        <network name="1"         />
+        <host name="\\tul11wst3759\fotos"/>
+</root>

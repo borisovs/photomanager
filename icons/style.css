@@ -1,0 +1,51 @@
+QToolButton, QPushButton, QGroupBox{
+	border: 2px solid #8f8f91;
+	border-radius: 6px;
+	background-color: #323232;
+	color: white;
+}
+
+
+QWidget{
+	background-color: #323232;
+	color: white;
+}
+
+QToolButton:pressed, QToolButton:checked{
+	background-color: qlineargradient(x1 :   0,
+									  y1 :   0,
+									  x2 :   0,
+									  y2 :   1,
+									  stop : 0    #cfcccc,
+									  stop : 0.5  #333232,
+									  stop : 0.51 #000000,
+									  stop : 1    #585c5f);
+	color: rgb(255, 255, 255);
+}
+
+QLabel, QToolButton{
+	color: white;
+	font:  bold 14px;
+}
+
+
+QTableView{
+	border: 2px solid #8f8f91;
+	border-radius: 6px;
+	background-color: #323232;
+	color: white;
+}
+
+QHeaderView{
+background-color: qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #616161, stop: 0.5 #505050, stop: 0.6 #434343, stop:1 #656565);
+color: white;
+padding-left: 4px;
+border: 1px solid #6c6c6c;
+}
+
+QHeaderView::section{
+background-color: qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #616161, stop: 0.5 #505050, stop: 0.6 #434343, stop:1 #656565);
+color: white;
+padding-left: 4px;
+border: 1px solid #6c6c6c;
+}

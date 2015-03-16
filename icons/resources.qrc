@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/css">
+        <file>style.css</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>camera-photo.png</file>
+        <file>media-flash-sd-mmc.png</file>
+        <file>go-down.png</file>
+        <file>go-next.png</file>
+        <file>go-previous.png</file>
+        <file>go-up.png</file>
+        <file>showfoto.png</file>
+        <file>system-log-out.png</file>
+        <file>dialog-ok.png</file>
+        <file>list-remove.png</file>
+        <file>system-suspend.png</file>
+        <file>contact-new.png</file>
+        <file>flag.png</file>
+        <file>central.png</file>
+        <file>CF.png</file>
+        <file>DVD_RW.png</file>
+        <file>MM.png</file>
+        <file>MS.png</file>
+        <file>SD.png</file>
+        <file>USB-2.0.png</file>
+        <file>addphoto.png</file>
+        <file>chroma.png</file>
+        <file>colorcop.png</file>
+        <file>eye.jpg</file>
+        <file>kadrir.png</file>
+        <file>Retush.png</file>
+        <file>select.png</file>
+        <file>windowblinds.png</file>
+        <file>docum.png</file>
+        <file>zoom.png</file>
+        <file>rotate.png</file>
+        <file>folder.png</file>
+        <file>photo.png</file>
+        <file>eye.jpg</file>
+        <file>text.png</file>
+    </qresource>
+</RCC>
